@@ -1,0 +1,26 @@
+html{
+    align-items: center;
+    background-color: aqua;
+}
+
+h2{
+ font-weight: bold;
+  font-family: Arial;
+  
+}
+.Color_Back_Log{
+    background-color: greenyellow;
+    border-style: ridge;
+    border-radius: 20px;
+    align-self: center;
+    border-width:30px;
+    border-color: black;
+
+}
+#Button_Login{
+    background-color: blue;
+    text-decoration: white;
+}
+#Title{
+    align-self: center;
+}
